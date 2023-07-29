@@ -20,7 +20,6 @@ Each method can be toggled separately in the config.
 
 AFK status can be configured to:
 * Ignore AFK players when calculating `playersSleepingPercentage` gamerule
-* Suspend hunger depletion
 * Marked as AFK in chat & scoreboard
 * Broadcast a message when a player becomes AFK
 * Broadcast a message when a player returns
