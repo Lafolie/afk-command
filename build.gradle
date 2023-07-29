@@ -22,7 +22,7 @@ loom {
     splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"afk-command" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
